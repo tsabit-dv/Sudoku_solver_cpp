@@ -1,6 +1,7 @@
 # Sudoku Solver C++ (Versi OnlineGDB)
 
 Repositori ini berisi implementasi *solver* Sudoku dalam bahasa C++ yang dirancang untuk dijalankan langsung di *compiler* online OnlineGDB. Kode ini menyelesaikan teka-teki Sudoku menggunakan algoritma *backtracking* yang efisien.
+![Teks alternatif]()
 
 ## Fitur
 
